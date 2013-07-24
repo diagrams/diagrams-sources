@@ -1,0 +1,18 @@
+darcs:http://darcs.nomeata.de/circle-packing
+darcs:http://hub.darcs.net/byorgey/force-layout
+https://github.com/diagrams/diagrams -fcairo -fsvg
+https://github.com/diagrams/diagrams-backend-tests -fall
+https://github.com/diagrams/diagrams-builder
+https://github.com/diagrams/diagrams-cairo
+https://github.com/diagrams/diagrams-contrib
+https://github.com/diagrams/diagrams-core
+https://github.com/diagrams/diagrams-gtk
+https://github.com/diagrams/diagrams-haddock
+https://github.com/diagrams/diagrams-lib
+https://github.com/diagrams/diagrams-postscript
+https://github.com/diagrams/diagrams-povray
+https://github.com/diagrams/diagrams-svg
+https://github.com/diagrams/docutils
+https://github.com/diagrams/dual-tree
+https://github.com/diagrams/monoid-extras
+https://github.com/diagrams/SVGFonts
