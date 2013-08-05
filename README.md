@@ -1,7 +1,7 @@
 diagrams-sources
 ================
 
-This package contains a `sources.txt` file in the format expected by
+This repository contains a `sources.txt` file in the format expected by
 [cabal-meta](https://github.com/yesodweb/cabal-meta).  This allows you to build
 and develop the most recent HEAD versions of the diagrams packages.
 
